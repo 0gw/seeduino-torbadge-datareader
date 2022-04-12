@@ -1,2 +1,3 @@
 # seeduino-torbadge-datareader
 This badge sold at the "Hacker Warehouse" vendor booth during Defcon 29. - it was expensive so I found out a way to make this with a Seeduino XIAO and a veritas PCB.
+In this code the sensor is used as a lie detector but it can be used for many other miscellaneous things. This file has a lot of great information about the sensors, operation of the firmware, and the Arduino code. The Veritas PCB has the same I/O pin connections to the Seeeduino XIAO microcontroller, so that sketch file can be used as is. Be sure to Install the three necessary Arduino libraries as instructed in the repository notes.
